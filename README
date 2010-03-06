@@ -1,0 +1,22 @@
+The Big Dev
+
+Copyright (c) Ian Millington 2008-2009.
+
+This software is distributed under licence. Use of this software
+implies agreement with all terms and conditions of the accompanying
+software licence.
+
+Please see accompanying LICENSE file.
+
+
+Introduction
+============
+
+This library is an Actionscript 3 library for advanced games. It 
+includes tools for basic game management, including hierarchical sets of
+views for easy implementation of nested UI's pausing, key management and 
+so on.
+
+It also has a library for AI, particularly behavior trees. The behavior 
+tree code is described in the book Artificial Intelligence for Games, 
+Second Edition, by Ian Millington and John Funge (Morgan Kaufmann 2009).
